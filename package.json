@@ -1,0 +1,16 @@
+{
+  "name": "pixi-svg-graphics",
+  "version": "1.0.3",
+  "description": "Converts SVG documents into PIXI.Graphics objects",
+  "main": "src/pixi-svg-graphics.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewleek/pixi-svg-graphics.git"
+  },
+  "author": "Sascha Gehlich <sascha@gehlich.us>",
+  "contributors": [
+    "Mike Barkmin <m.barkmin@greyrook.com>",
+    "Larry Gordon <lgordon@psyrendust.com>"
+  ],
+  "license": "MIT"
+}
